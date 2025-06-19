@@ -1,0 +1,4 @@
+# Dependencias para el proyecto
+pyshark
+
+# Aparte el usuario deberá tener el firmware correspondiente de Ubertotoh-One asi como el hardware para poder hacer uso de múltiples funciones
